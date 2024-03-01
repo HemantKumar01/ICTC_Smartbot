@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\my_programs\SmartBotJava\openCV\.cxx\Debug\66pf3p3p\arm64-v8a'
+ninja: no work to do.
